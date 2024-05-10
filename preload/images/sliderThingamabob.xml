@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="sliderThingamabob.png">
-  <SubTexture name="Slider Placeholder Static0000" x="0" y="0" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
-</TextureAtlas>
